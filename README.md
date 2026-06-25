@@ -6,4 +6,4 @@ flutter create .
 flutter run
 ```
 
-Feito por Pedro T. Camilo & Mariana Novais
+Feito por Pedro T. Camilo, Mariana Novais & Sofia Borges
